@@ -20,4 +20,4 @@ Create a post-incident report. The report must include:
 - Was the incident fully resolved?
 - What steps would you take to prevent this from happening again?
 
-[Link to the Incident Report](https://github.com/bjones519/Kura_C4_D3.1/blob/main/IncidentReport.md)
+## [Link to the Incident Report](https://github.com/bjones519/Kura_C4_D3.1/blob/main/IncidentReport.md)
